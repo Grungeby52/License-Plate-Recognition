@@ -15,7 +15,7 @@ $ bash get-networks.sh
 ```
 ## Kurulum
 Plaka resmlerini "img" klasörünün içine kopyalayın ve ardından "toGrayResize.py" doyasını çalıştırın.
-Not: Öncesinde path uzantılarını değiştirmeniz gerekebilir.
+**Not: Öncesinde path uzantılarını değiştirmeniz gerekebilir**
 ```shellscript
 $ python3 toGrayResize.py
 ```
