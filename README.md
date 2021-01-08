@@ -21,7 +21,7 @@ $ python3 toGrayResize.py
 ```
 
 ## Kullanımı
-Aşağıdaki kodu çalışrırmanız yeterli olacaktır. 
+Aşağıdaki kodu çalıştırmanız yeterli olacaktır. 
 ```shellscript
 $ python3 license-plate-ocr.py img/
 ```
