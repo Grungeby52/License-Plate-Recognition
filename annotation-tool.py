@@ -1,25 +1,3 @@
-'''	
-	Annotation tool
-
-		Tool used to annotate labels for LP detection. Main keys:
-			C: creates a new shape
-			A: creates a new vertex over mouse position
-			D: delete last vertex
-			S: change position of closest vertex (to mouse pos.)
-			X: switch to closest shape
-			N or enter: next picture
-			P: previous picture
-			For more commands, take a look at the main part...
-
-		Usage:
-
-			python annotation-tool.py max_width max_height file1 ... fileN
-
-		Obs. This tool is not fully tested and crashes under unexpetected situations.
-		If you find any and correct, feel free to send a pull request =)
-
-'''
-
 import cv2
 import sys
 import numpy as np
